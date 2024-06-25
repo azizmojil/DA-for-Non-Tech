@@ -9,19 +9,19 @@
     - Provide step-by-step instructions, including the use of `pip` for installing packages.
   - Create a simple Python script to demonstrate basic syntax.
 
-## 2. Fundamentals of Numpy
-- **Basic Concepts of Arrays and Matrix Operations**
-- **Common Functions and Their Uses**
-- **Activities:**
-  - Array creation, manipulation, and basic operations exercises.
-
-## 3. Introduction to Pandas
+## 2. Introduction to Pandas
 - **Understanding DataFrame and Series**
 - **Data Import/Export Using Pandas**
 - **Basic Data Manipulation**
   - Filtering, sorting, grouping.
 - **Activities:**
   - Practical exercises with real-world datasets.
+
+## 3. Fundamentals of Numpy
+- **Basic Concepts of Arrays and Matrix Operations**
+- **Common Functions and Their Uses**
+- **Activities:**
+  - Array creation, manipulation, and basic operations exercises.
 
 ## 4. Data Cleaning and Preparation
 - **Handling Missing Data**
