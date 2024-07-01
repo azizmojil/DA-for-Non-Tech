@@ -2,7 +2,7 @@
 
 ## 1. Introduction to Python and Jupyter Notebooks
 - **Overview of Python Programming**
-- ** Introduction to virtual environments in Python**
+- **Introduction to virtual environments in Python**
 - **Introduction to Jupyter Notebooks**
   - Explanation of how they work and their importance in data analysis.
 - **Activities:**
