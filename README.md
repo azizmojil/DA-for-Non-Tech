@@ -2,6 +2,7 @@
 
 ## 1. Introduction to Python and Jupyter Notebooks
 - **Overview of Python Programming**
+- ** Introduction to virtual environments in Python**
 - **Introduction to Jupyter Notebooks**
   - Explanation of how they work and their importance in data analysis.
 - **Activities:**
@@ -118,6 +119,38 @@ If you didn't add Python to your PATH during the installation or need to add it 
 3. You should also verify the installation of pip (more on pip later). Type the following command and press Enter:
     ```python
    pip --version
+________________________
+## 1. Setting Up a Virtual Environment (venv)
+- **Why Use a Virtual Environment?**
+  - Isolates project dependencies.
+  - Prevents conflicts between different projects.
+- **Creating a Virtual Environment**
+  - Open Command Prompt (Windows) or Terminal (MacOS/Linux).
+  - Navigate to your project directory.
+  - Run the following command to create a virtual environment:
+    ```sh
+    python -m venv myenv
+    ```
+  - Replace `myenv` with your desired environment name.
+- **Activating the Virtual Environment**
+  - On Windows:
+    ```sh
+    myenv\Scripts\activate
+    ```
+  - On MacOS/Linux:
+    ```sh
+    source myenv/bin/activate
+    ```
+- **Installing Required Packages**
+  - Once the virtual environment is activated, install necessary packages using `pip`:
+    ```sh
+    pip install pandas numpy jupyter
+    ```
+- **Deactivating the Virtual Environment**
+  - To deactivate the virtual environment, simply run:
+    ```sh
+    deactivate
+    ```
 ________________________
 # Installing Jupyter Notebooks Using Pip and Getting Started
 
