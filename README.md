@@ -1,6 +1,6 @@
 # Basic Pandas and Numpy Course for Non-Tech Colleagues
 
-## 1. Introduction to Python and Jupyter Notebooks
+## 1. Introduction to Python, venv, and Jupyter Notebooks
 - **Overview of Python Programming**
 - **Introduction to virtual environments in Python**
 - **Introduction to Jupyter Notebooks**
