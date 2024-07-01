@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8121e397-f1e6-482e-9262-6f42b27c34e3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1_IntroToPandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.1_IntroToPandas.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.1_IntroToNumpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.1_IntroToNumpy.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "newversion",
+    "git-widget-placeholder": "new__version",
     "last_opened_file_path": "C:/Users/lapto/Downloads/data-analytics-course",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -85,7 +83,7 @@
       <workItem from="1719405404126" duration="36000" />
       <workItem from="1719405447392" duration="19000" />
       <workItem from="1719405467768" duration="2698000" />
-      <workItem from="1719491198120" duration="4554000" />
+      <workItem from="1719491198120" duration="7306000" />
     </task>
     <servers />
   </component>
