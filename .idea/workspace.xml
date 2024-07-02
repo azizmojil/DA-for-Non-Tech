@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8121e397-f1e6-482e-9262-6f42b27c34e3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/DA-for-Non-Tech.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DA-for-Non-Tech.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.1_IntroToSeaborn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4.1_IntroToSeaborn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LogisticRegression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LogisticRegression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/4.1_SeabornExercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/4.1_SeabornExercise.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +47,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "new__version",
-    "last_opened_file_path": "C:/Users/lapto/Downloads/data-analytics-course",
+    "last_opened_file_path": "C:/Users/lapto/Downloads",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -83,7 +90,8 @@
       <workItem from="1719405404126" duration="36000" />
       <workItem from="1719405447392" duration="19000" />
       <workItem from="1719405467768" duration="2698000" />
-      <workItem from="1719491198120" duration="7306000" />
+      <workItem from="1719491198120" duration="20149000" />
+      <workItem from="1719913087846" duration="1233000" />
     </task>
     <servers />
   </component>
